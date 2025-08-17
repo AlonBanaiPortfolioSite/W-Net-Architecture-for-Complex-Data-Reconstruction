@@ -42,7 +42,7 @@ Weighted combination of MAE, MSE, and 1−Pearson correlation to balance point-w
 | Cropping + Warping | ↓ | ↑ | Temporal distortion harms signals |
 | Baseline + Artifact Filtering | 0.7363 | 0.1092 | Filtering removed noisy segments |
 
-![Performance Results](images/results_comparison.png)
+![Performance Results](images/Performance_Results.png)
 
 ## Conclusion
 
